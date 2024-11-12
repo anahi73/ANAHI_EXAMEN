@@ -1,2 +1,2 @@
-﻿gzip cvf /home /copia_seguridad.tgz
+﻿gzip cvf /home/* /copia_seguridad.tgz
 
