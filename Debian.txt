@@ -1,0 +1,9 @@
+touch listado.txt
+touch prueba.txt
+touch docum.txt
+touch notas.txt
+mkdir compartir
+cd compartir
+touch ejercicios.txt
+dir
+cd
